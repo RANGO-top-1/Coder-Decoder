@@ -1,8 +1,0 @@
-# Environment variables
-.env
-
-# Другие файлы, которые не нужно пушить (например)
-node_modules/
-.vscode/
-*.log
-.env.production
